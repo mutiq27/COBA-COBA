@@ -5,3 +5,6 @@ untuk web programmming
 -java
 pbo dan applikasi
 -python
+kecerdasan buatan
+-php
+database dan web
