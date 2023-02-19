@@ -2,7 +2,10 @@ resolusi untuk semster ini, bisa menguasai bahasa:
 -javascript
 untuk web programmming
 -html dan css
+untuk web programming
 -java
 object oriented
 -python
--c# (object oriented program)
+kecerdasan buatan
+-php
+database dan web
