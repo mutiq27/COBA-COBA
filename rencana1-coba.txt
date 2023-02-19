@@ -4,7 +4,7 @@ untuk web programmming
 -html dan css
 untuk web programming
 -java
-pbo dan applikasi
+object oriented
 -python
 kecerdasan buatan
 -php
