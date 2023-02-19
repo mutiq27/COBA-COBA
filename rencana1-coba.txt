@@ -1,0 +1,5 @@
+resolusi untuk semster ini, bisa menguasai bahasa:
+-javascript
+html dan css
+-java
+python
