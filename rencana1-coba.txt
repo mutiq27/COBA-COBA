@@ -3,4 +3,5 @@ resolusi untuk semster ini, bisa menguasai bahasa:
 untuk web programmming
 -html dan css
 -java
+pbo dan applikasi
 -python
